@@ -1,0 +1,5383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>cash</title>
+    <link>https://kangaroo-gerbil-j3re.squarespace.com</link>
+    <pubDate>Thu, 20 Oct 2022 03:02:09 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-558447657</wp:author_id>
+      <wp:author_login>cashofficial123@gmail.com</wp:author_login>
+      <wp:author_email>cashofficial123@gmail.com</wp:author_email>
+      <wp:author_display_name><![CDATA[cash cash]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[cash]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[cash]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>home</title>
+      <pubDate>Thu, 20 Oct 2022 03:19:01 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="6350ba99b5b64707d0356a84" id="sections">
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    black'
+  
+  data-section-id="6350ba99b5b64707d0356a88"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.3,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;video&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 1,
+    &quot;filter&quot;: 6,
+    &quot;filterStrength&quot;: 85,
+    &quot;zoom&quot;: 0,
+    &quot;videoFallbackContentItemId&quot;: &quot;6350ba99b5b64707d0356a3d&quot;,
+    &quot;videoFallbackContentItem&quot;: {
+      &quot;id&quot;: &quot;6350ba99b5b64707d0356a3d&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1665082128977,
+      &quot;updatedOn&quot;: 1665666754388,
+      &quot;starred&quot;: false,
+      &quot;passthrough&quot;: false,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1665082128977,
+      &quot;authorId&quot;: &quot;632e0183577b973074d8abbd&quot;,
+      &quot;systemDataId&quot;: &quot;9580db61-a0dc-4ed1-85d7-04f716156aec&quot;,
+      &quot;systemDataVariants&quot;: &quot;3558x1998,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+      &quot;filename&quot;: &quot;header-bg.png&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;060504&quot;,
+        &quot;topRightAverage&quot;: &quot;070606&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;060403&quot;,
+        &quot;bottomRightAverage&quot;: &quot;060505&quot;,
+        &quot;centerAverage&quot;: &quot;0d131b&quot;,
+        &quot;suggestedBgColor&quot;: &quot;0b0d0b&quot;
+      },
+      &quot;urlId&quot;: &quot;4a8o3eep6oz72l9dklz1w0ynsscb0l-agbym&quot;,
+      &quot;title&quot;: &quot;&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;632e0183577b973074d8abbd&quot;,
+        &quot;displayName&quot;: &quot;cash cash&quot;,
+        &quot;firstName&quot;: &quot;cash&quot;,
+        &quot;lastName&quot;: &quot;cash&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/9580db61-a0dc-4ed1-85d7-04f716156aec/header-bg.png&quot;,
+      &quot;contentType&quot;: &quot;image/png&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;image&quot;,
+      &quot;originalSize&quot;: &quot;3558x1998&quot;
+    },
+    &quot;videoSourceProvider&quot;: &quot;native&quot;,
+    &quot;nativeVideoContentItem&quot;: {
+      &quot;id&quot;: &quot;6350ba99b5b64707d0356a3f&quot;,
+      &quot;recordType&quot;: 61,
+      &quot;addedOn&quot;: 1665082401752,
+      &quot;updatedOn&quot;: 1665082401752,
+      &quot;starred&quot;: false,
+      &quot;passthrough&quot;: false,
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1666235033009,
+      &quot;authorId&quot;: &quot;632e0183577b973074d8abbd&quot;,
+      &quot;systemDataId&quot;: &quot;4c26b7a4-ecbf-4d6e-aa29-7d14dd0a99d3&quot;,
+      &quot;systemDataVariants&quot;: &quot;1920:1080,640:360&quot;,
+      &quot;systemDataSourceType&quot;: &quot;mp4&quot;,
+      &quot;filename&quot;: &quot;header-bg.mp4&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 1,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;632e0183577b973074d8abbd&quot;,
+        &quot;displayName&quot;: &quot;cash cash&quot;,
+        &quot;firstName&quot;: &quot;cash&quot;,
+        &quot;lastName&quot;: &quot;cash&quot;,
+        &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;
+      },
+      &quot;contentType&quot;: &quot;video/mp4&quot;,
+      &quot;structuredContent&quot;: {
+        &quot;_type&quot;: &quot;SqspHostedVideo&quot;,
+        &quot;videoCodec&quot;: &quot;h264&quot;,
+        &quot;audioCodec&quot;: &quot;aac&quot;,
+        &quot;alexandriaUrl&quot;: &quot;https://video.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/4c26b7a4-ecbf-4d6e-aa29-7d14dd0a99d3/{variant}&quot;,
+        &quot;alexandriaLibraryId&quot;: &quot;6329f526dfa8a56dbab40128&quot;,
+        &quot;aspectRatio&quot;: 1.7777777777777777,
+        &quot;durationSeconds&quot;: 8.208333
+      },
+      &quot;videoCodec&quot;: &quot;h264&quot;,
+      &quot;audioCodec&quot;: &quot;aac&quot;,
+      &quot;alexandriaUrl&quot;: &quot;https://video.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/4c26b7a4-ecbf-4d6e-aa29-7d14dd0a99d3/{variant}&quot;,
+      &quot;alexandriaLibraryId&quot;: &quot;6329f526dfa8a56dbab40128&quot;,
+      &quot;aspectRatio&quot;: 1.7777777777777777,
+      &quot;durationSeconds&quot;: 8.208333,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;recordTypeLabel&quot;: &quot;sqsp-hosted-video&quot;,
+      &quot;originalSize&quot;: &quot;1920:1080&quot;
+    }
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;liquid&quot;,
+    &quot;rotation&quot;: 270,
+    &quot;speed&quot;: 20,
+    &quot;intensity&quot;: 5,
+    &quot;scale&quot;: 1,
+    &quot;shadow&quot;: 6,
+    &quot;seed&quot;: 71,
+    &quot;smoothness&quot;: 100,
+    &quot;morphSpeed&quot;: 20
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+        <div data-controller="VideoBackgroundNative">
+          <div
+  class="sqs-video-background-native content-fill"
+  data-config-native-video="{
+  &quot;id&quot;: &quot;6350ba99b5b64707d0356a3f&quot;,
+  &quot;recordType&quot;: 61,
+  &quot;addedOn&quot;: 1665082401752,
+  &quot;updatedOn&quot;: 1665082401752,
+  &quot;starred&quot;: false,
+  &quot;passthrough&quot;: false,
+  &quot;workflowState&quot;: 1,
+  &quot;publishOn&quot;: 1666235033009,
+  &quot;authorId&quot;: &quot;632e0183577b973074d8abbd&quot;,
+  &quot;systemDataId&quot;: &quot;4c26b7a4-ecbf-4d6e-aa29-7d14dd0a99d3&quot;,
+  &quot;systemDataVariants&quot;: &quot;1920:1080,640:360&quot;,
+  &quot;systemDataSourceType&quot;: &quot;mp4&quot;,
+  &quot;filename&quot;: &quot;header-bg.mp4&quot;,
+  &quot;body&quot;: null,
+  &quot;likeCount&quot;: 0,
+  &quot;commentCount&quot;: 0,
+  &quot;publicCommentCount&quot;: 0,
+  &quot;commentState&quot;: 1,
+  &quot;unsaved&quot;: false,
+  &quot;author&quot;: {
+    &quot;id&quot;: &quot;632e0183577b973074d8abbd&quot;,
+    &quot;displayName&quot;: &quot;cash cash&quot;,
+    &quot;firstName&quot;: &quot;cash&quot;,
+    &quot;lastName&quot;: &quot;cash&quot;,
+    &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;,
+    &quot;bio&quot;: &quot;&quot;,
+    &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;
+  },
+  &quot;contentType&quot;: &quot;video/mp4&quot;,
+  &quot;structuredContent&quot;: {
+    &quot;_type&quot;: &quot;SqspHostedVideo&quot;,
+    &quot;videoCodec&quot;: &quot;h264&quot;,
+    &quot;audioCodec&quot;: &quot;aac&quot;,
+    &quot;alexandriaUrl&quot;: &quot;https://video.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/4c26b7a4-ecbf-4d6e-aa29-7d14dd0a99d3/{variant}&quot;,
+    &quot;alexandriaLibraryId&quot;: &quot;6329f526dfa8a56dbab40128&quot;,
+    &quot;aspectRatio&quot;: 1.7777777777777777,
+    &quot;durationSeconds&quot;: 8.208333
+  },
+  &quot;videoCodec&quot;: &quot;h264&quot;,
+  &quot;audioCodec&quot;: &quot;aac&quot;,
+  &quot;alexandriaUrl&quot;: &quot;https://video.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/4c26b7a4-ecbf-4d6e-aa29-7d14dd0a99d3/{variant}&quot;,
+  &quot;alexandriaLibraryId&quot;: &quot;6329f526dfa8a56dbab40128&quot;,
+  &quot;aspectRatio&quot;: 1.7777777777777777,
+  &quot;durationSeconds&quot;: 8.208333,
+  &quot;items&quot;: [ ],
+  &quot;pushedServices&quot;: { },
+  &quot;pendingPushedServices&quot;: { },
+  &quot;recordTypeLabel&quot;: &quot;sqsp-hosted-video&quot;,
+  &quot;originalSize&quot;: &quot;1920:1080&quot;
+}"
+  data-config-playback-speed="1"
+  data-config-filter="6"
+  data-config-filter-strength="85"
+>
+  
+    <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/9580db61-a0dc-4ed1-85d7-04f716156aec/header-bg.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/9580db61-a0dc-4ed1-85d7-04f716156aec/header-bg.png" data-image-dimensions="3558x1998" data-image-focal-point="0.5,0.5" alt="header-bg.png"  class="sqs-video-background-native__fallback-image" />
+  
+
+  <div class="sqs-video-background-native__video-player"></div>
+</div>
+
+        </div>
+      
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-6350ba99b5b64707d0356a87 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(16,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6350ba99b5b64707d0356a87 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6350ba99b5b64707d0356a87 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(14,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-ab49e15e1118cc25ded8 {
+    grid-area: 3/2/9/10;
+    z-index: 1;
+  }
+
+  .fe-block-ab49e15e1118cc25ded8 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-ab49e15e1118cc25ded8 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-ab49e15e1118cc25ded8 {
+      grid-area: 5/6/11/22;
+      z-index: 1;
+    }
+
+    .fe-block-ab49e15e1118cc25ded8 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-ab49e15e1118cc25ded8 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-eb8a03bf0b8882804fdc {
+    grid-area: 9/5/10/7;
+    z-index: 3;
+  }
+
+  .fe-block-eb8a03bf0b8882804fdc .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-eb8a03bf0b8882804fdc .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-eb8a03bf0b8882804fdc {
+      grid-area: 12/13/13/15;
+      z-index: 3;
+    }
+
+    .fe-block-eb8a03bf0b8882804fdc .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-eb8a03bf0b8882804fdc .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-df509d6938902aec193e {
+    grid-area: 11/3/15/9;
+    z-index: 2;
+  }
+
+  .fe-block-df509d6938902aec193e .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-df509d6938902aec193e .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-df509d6938902aec193e {
+      grid-area: 14/10/15/18;
+      z-index: 2;
+    }
+
+    .fe-block-df509d6938902aec193e .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-df509d6938902aec193e .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6350ba99b5b64707d0356a87"><div class="fe-block fe-block-ab49e15e1118cc25ded8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ab49e15e1118cc25ded8"><div class="sqs-block-content">
+
+<h1 style="text-align:center;white-space:pre-wrap;">sound artist, audio developer and engineer</h1><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p>
+
+
+</div></div></div><div class="fe-block fe-block-eb8a03bf0b8882804fdc"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-eb8a03bf0b8882804fdc"><div class="sqs-block-content"><hr /></div></div></div><div class="fe-block fe-block-df509d6938902aec193e"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-df509d6938902aec193e"><div class="sqs-block-content">
+
+<p style="text-align:center;white-space:pre-wrap;" class=""><span class="sqsrte-text-color--accent">brand new album “deluged” out now! &lt;3</span></p>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6350ba99b5b64707d0356a8b"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-6350ba99b5b64707d0356a8a {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(10,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6350ba99b5b64707d0356a8a {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6350ba99b5b64707d0356a8a {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(16,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-a31ae5cb1d058d5a242f {
+    grid-area: 1/2/8/10;
+    z-index: 0;
+  }
+
+  .fe-block-a31ae5cb1d058d5a242f .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-a31ae5cb1d058d5a242f .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-a31ae5cb1d058d5a242f {
+      grid-area: 2/5/17/23;
+      z-index: 0;
+    }
+
+    .fe-block-a31ae5cb1d058d5a242f .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-a31ae5cb1d058d5a242f .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-3e1c2bb9cc48a360b2e6 {
+    grid-area: 6/4/11/10;
+    z-index: 1;
+  }
+
+  .fe-block-3e1c2bb9cc48a360b2e6 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-3e1c2bb9cc48a360b2e6 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3e1c2bb9cc48a360b2e6 {
+      grid-area: 1/17/7/24;
+      z-index: 1;
+    }
+
+    .fe-block-3e1c2bb9cc48a360b2e6 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-3e1c2bb9cc48a360b2e6 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-6350ba99b5b64707d0356a8a"><div class="fe-block fe-block-a31ae5cb1d058d5a242f"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67" data-block-type="5" id="block-a31ae5cb1d058d5a242f"><div class="sqs-block-content">
+
+
+
+  <svg data-image-mask-id="a31ae5cb1d058d5a242f" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="a31ae5cb1d058d5a242f" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.35 0.35, 0 0 1, 1 0.5 A0.35 0.35, 0 0 1 0 0.5"/>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="horizontal-oval"
+          style="overflow: hidden;clip-path: url(#a31ae5cb1d058d5a242f);-webkit-clip-path: url(#a31ae5cb1d058d5a242f);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/d018024d-3190-4838-91d9-bf1d7d6c542e/image-asset.jpeg" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/d018024d-3190-4838-91d9-bf1d7d6c542e/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/d018024d-3190-4838-91d9-bf1d7d6c542e/image-asset.jpeg" data-image-dimensions="2200x1467" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-3e1c2bb9cc48a360b2e6"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67" data-block-type="5" id="block-3e1c2bb9cc48a360b2e6"><div class="sqs-block-content">
+
+
+
+  <svg data-image-mask-id="3e1c2bb9cc48a360b2e6" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="3e1c2bb9cc48a360b2e6" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.35 0.35, 0 0 1, 1 0.5 A0.35 0.35, 0 0 1 0 0.5"/>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="horizontal-oval"
+          style="overflow: hidden;clip-path: url(#3e1c2bb9cc48a360b2e6);-webkit-clip-path: url(#3e1c2bb9cc48a360b2e6);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/89a98887-6b34-4709-a21e-f83ff9eee99d/image-asset.jpeg" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.7329655329314071 * 100%) calc(0.520032502031377 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/89a98887-6b34-4709-a21e-f83ff9eee99d/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/89a98887-6b34-4709-a21e-f83ff9eee99d/image-asset.jpeg" data-image-dimensions="1400x1274" data-image-focal-point="0.7329655329314071,0.520032502031377" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: cover;object-position: calc(0.7329655329314071 * 100%) calc(0.520032502031377 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6350ba99b5b64707d0356a8e"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-6350ba99b5b64707d0356a8d {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 0.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(43,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 0.0px;
+  column-gap: 0.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6350ba99b5b64707d0356a8d {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6350ba99b5b64707d0356a8d {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 0.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(58,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-3dadba1b164141bcddbc {
+    grid-area: 1/2/6/10;
+    z-index: 8;
+  }
+
+  .fe-block-3dadba1b164141bcddbc .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-3dadba1b164141bcddbc .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3dadba1b164141bcddbc {
+      grid-area: 1/10/8/18;
+      z-index: 9;
+    }
+
+    .fe-block-3dadba1b164141bcddbc .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-3dadba1b164141bcddbc .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-1ba71acca922e129e93f {
+    grid-area: 7/1/37/11;
+    z-index: 2;
+  }
+
+  .fe-block-1ba71acca922e129e93f .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-1ba71acca922e129e93f .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-1ba71acca922e129e93f {
+      grid-area: 10/1/54/27;
+      z-index: 1;
+    }
+
+    .fe-block-1ba71acca922e129e93f .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-1ba71acca922e129e93f .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-08d434795e214b82d971 {
+    grid-area: 27/2/31/10;
+    z-index: 3;
+  }
+
+  .fe-block-08d434795e214b82d971 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-08d434795e214b82d971 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-08d434795e214b82d971 {
+      grid-area: 22/6/28/12;
+      z-index: 4;
+    }
+
+    .fe-block-08d434795e214b82d971 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-08d434795e214b82d971 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-0e547f8a28cc6aca91bc {
+    grid-area: 8/2/26/10;
+    z-index: 4;
+  }
+
+  .fe-block-0e547f8a28cc6aca91bc .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-0e547f8a28cc6aca91bc .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-0e547f8a28cc6aca91bc {
+      grid-area: 13/15/35/23;
+      z-index: 5;
+    }
+
+    .fe-block-0e547f8a28cc6aca91bc .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-0e547f8a28cc6aca91bc .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-25d0ea21681f0704316d {
+    grid-area: 34/2/37/4;
+    z-index: 6;
+  }
+
+  .fe-block-25d0ea21681f0704316d .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-25d0ea21681f0704316d .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-25d0ea21681f0704316d {
+      grid-area: 37/4/44/7;
+      z-index: 7;
+    }
+
+    .fe-block-25d0ea21681f0704316d .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-25d0ea21681f0704316d .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-8a4dd8cc188902d318ec {
+    grid-area: 35/2/44/10;
+    z-index: 5;
+  }
+
+  .fe-block-8a4dd8cc188902d318ec .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-8a4dd8cc188902d318ec .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8a4dd8cc188902d318ec {
+      grid-area: 39/5/59/23;
+      z-index: 6;
+    }
+
+    .fe-block-8a4dd8cc188902d318ec .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-8a4dd8cc188902d318ec .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-40705c823a9a01696488 {
+    grid-area: 39/9/42/11;
+    z-index: 7;
+  }
+
+  .fe-block-40705c823a9a01696488 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-40705c823a9a01696488 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-40705c823a9a01696488 {
+      grid-area: 49/21/57/25;
+      z-index: 8;
+    }
+
+    .fe-block-40705c823a9a01696488 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-40705c823a9a01696488 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-6350ba99b5b64707d0356a8d"><div class="fe-block fe-block-3dadba1b164141bcddbc"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-3dadba1b164141bcddbc"><div class="sqs-block-content">
+
+<h1 style="text-align:center;white-space:pre-wrap;">mushrooms dot the landscape</h1>
+
+
+</div></div></div><div class="fe-block fe-block-1ba71acca922e129e93f"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="87" data-block-type="5" id="block-1ba71acca922e129e93f"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/daf61717-83ce-44a7-ae7e-491a77d29f50/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/daf61717-83ce-44a7-ae7e-491a77d29f50/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/daf61717-83ce-44a7-ae7e-491a77d29f50/image-asset.png" data-image-dimensions="1919x1923" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-08d434795e214b82d971"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-08d434795e214b82d971"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--accent">the dense moss, rich with moisture, is a perfect growing medium for iceland’s many species of mushrooms. experienced mushroom hunters know to visit their favorite spots a few days after it rains to find the biggest variety.</span></p>
+
+
+</div></div></div><div class="fe-block fe-block-0e547f8a28cc6aca91bc"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="150" data-block-type="5" id="block-0e547f8a28cc6aca91bc"><div class="sqs-block-content">
+
+
+
+  <svg data-image-mask-id="0e547f8a28cc6aca91bc" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="0e547f8a28cc6aca91bc" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.5 0.5, 0 0 1, 1 0.5 M1,0.5 A0.5 0.5, 0 0 1, 0 0.5 Z">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="vertical-oval"
+          style="overflow: hidden;clip-path: url(#0e547f8a28cc6aca91bc);-webkit-clip-path: url(#0e547f8a28cc6aca91bc);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/2ece1c25-6750-4f08-91c5-80709d6a3a1e/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/2ece1c25-6750-4f08-91c5-80709d6a3a1e/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/2ece1c25-6750-4f08-91c5-80709d6a3a1e/image-asset.png" data-image-dimensions="1821x2732" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-25d0ea21681f0704316d"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-25d0ea21681f0704316d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/8764d2a4-0966-4aae-ab10-43128cc78f90/image-asset.png" alt="" loading="lazy" style="
+                object-fit: contain;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/8764d2a4-0966-4aae-ab10-43128cc78f90/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/8764d2a4-0966-4aae-ab10-43128cc78f90/image-asset.png" data-image-dimensions="815x1155" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: contain;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-8a4dd8cc188902d318ec"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&#125;,&quot;isOldBlock&quot;:true,&quot;resolvedBy&quot;:&quot;native&quot;,&quot;nativeVideo&quot;:&quot;6350ba99b5b64707d0356a50&quot;&#125;" data-block-type="32" id="block-8a4dd8cc188902d318ec"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:0.5625%;"><div class="sqs-native-video" data-config-block-id="8a4dd8cc188902d318ec" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;6350ba99b5b64707d0356a50&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1665081889263,&quot;updatedOn&quot;:1665081889263,&quot;starred&quot;:false,&quot;passthrough&quot;:false,&quot;workflowState&quot;:1,&quot;publishOn&quot;:1666235033045,&quot;authorId&quot;:&quot;632e0183577b973074d8abbd&quot;,&quot;systemDataId&quot;:&quot;f4b60810-7b4a-4226-9e78-bccc207fd8d0&quot;,&quot;systemDataVariants&quot;:&quot;1920:1080,640:360&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;video.mp4&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;unsaved&quot;:false,&quot;author&quot;:&#123;&quot;id&quot;:&quot;632e0183577b973074d8abbd&quot;,&quot;displayName&quot;:&quot;cash cash&quot;,&quot;firstName&quot;:&quot;cash&quot;,&quot;lastName&quot;:&quot;cash&quot;,&quot;avatarUrl&quot;:&quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;,&quot;bio&quot;:&quot;&quot;,&quot;avatarAssetUrl&quot;:&quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/f4b60810-7b4a-4226-9e78-bccc207fd8d0/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;6329f526dfa8a56dbab40128&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:11.041667&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/f4b60810-7b4a-4226-9e78-bccc207fd8d0/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;6329f526dfa8a56dbab40128&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:11.041667,&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;,&quot;originalSize&quot;:&quot;1920:1080&quot;&#125;"><div class="native-video-player"></div></div></div></div></div></div></div><div class="fe-block fe-block-40705c823a9a01696488"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-40705c823a9a01696488"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/1a7a9a0d-4bf0-4a04-ad93-ab1f097ca24c/image-asset.png" alt="" loading="lazy" style="
+                object-fit: contain;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/1a7a9a0d-4bf0-4a04-ad93-ab1f097ca24c/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/1a7a9a0d-4bf0-4a04-ad93-ab1f097ca24c/image-asset.png" data-image-dimensions="954x952" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: contain;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6350ba99b5b64707d0356a91"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.2,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-6350ba99b5b64707d0356a90 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 6.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (6.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(24,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 6.0px;
+  column-gap: 6.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6350ba99b5b64707d0356a90 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6350ba99b5b64707d0356a90 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 6.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (6.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(46,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-92120826223a828278dd {
+    grid-area: 2/2/7/10;
+    z-index: 7;
+  }
+
+  .fe-block-92120826223a828278dd .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-92120826223a828278dd .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-92120826223a828278dd {
+      grid-area: 2/11/9/17;
+      z-index: 7;
+    }
+
+    .fe-block-92120826223a828278dd .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-92120826223a828278dd .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-8e79b239aa98b9570272 {
+    grid-area: 12/1/25/11;
+    z-index: 1;
+  }
+
+  .fe-block-8e79b239aa98b9570272 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-8e79b239aa98b9570272 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8e79b239aa98b9570272 {
+      grid-area: 6/1/47/27;
+      z-index: 1;
+    }
+
+    .fe-block-8e79b239aa98b9570272 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-8e79b239aa98b9570272 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-4dc5625ee69ae03d50d7 {
+    grid-area: 7/2/16/10;
+    z-index: 2;
+  }
+
+  .fe-block-4dc5625ee69ae03d50d7 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-4dc5625ee69ae03d50d7 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-4dc5625ee69ae03d50d7 {
+      grid-area: 11/8/31/25;
+      z-index: 2;
+    }
+
+    .fe-block-4dc5625ee69ae03d50d7 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-4dc5625ee69ae03d50d7 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-61809df1df3970f40d14 {
+    grid-area: 13/2/15/4;
+    z-index: 4;
+  }
+
+  .fe-block-61809df1df3970f40d14 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-61809df1df3970f40d14 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-61809df1df3970f40d14 {
+      grid-area: 29/4/35/10;
+      z-index: 3;
+    }
+
+    .fe-block-61809df1df3970f40d14 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-61809df1df3970f40d14 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-765824b68b10782b0136 {
+    grid-area: 19/2/22/10;
+    z-index: 3;
+  }
+
+  .fe-block-765824b68b10782b0136 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-765824b68b10782b0136 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-765824b68b10782b0136 {
+      grid-area: 13/4/17/9;
+      z-index: 6;
+    }
+
+    .fe-block-765824b68b10782b0136 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-765824b68b10782b0136 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-d768026491514ee95136 {
+    grid-area: 15/2/17/4;
+    z-index: 5;
+  }
+
+  .fe-block-d768026491514ee95136 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-d768026491514ee95136 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d768026491514ee95136 {
+      grid-area: 23/4/29/10;
+      z-index: 4;
+    }
+
+    .fe-block-d768026491514ee95136 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-d768026491514ee95136 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-f4f54f2b7fd210660578 {
+    grid-area: 15/4/17/6;
+    z-index: 6;
+  }
+
+  .fe-block-f4f54f2b7fd210660578 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-f4f54f2b7fd210660578 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-f4f54f2b7fd210660578 {
+      grid-area: 29/10/35/16;
+      z-index: 5;
+    }
+
+    .fe-block-f4f54f2b7fd210660578 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-f4f54f2b7fd210660578 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-6350ba99b5b64707d0356a90"><div class="fe-block fe-block-92120826223a828278dd"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-92120826223a828278dd"><div class="sqs-block-content">
+
+<h1 style="text-align:center;white-space:pre-wrap;">an island created by volcanoes</h1>
+
+
+</div></div></div><div class="fe-block fe-block-8e79b239aa98b9570272"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="94.38888888888889" data-block-type="5" id="block-8e79b239aa98b9570272"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/e333a934-84c6-4751-88ed-628f7c6f1cab/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.7076864342071774 * 100%) calc(0.6880860107513439 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/e333a934-84c6-4751-88ed-628f7c6f1cab/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/e333a934-84c6-4751-88ed-628f7c6f1cab/image-asset.png" data-image-dimensions="1920x1954" data-image-focal-point="0.7076864342071774,0.6880860107513439" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.7076864342071774 * 100%) calc(0.6880860107513439 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-4dc5625ee69ae03d50d7"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67" data-block-type="5" id="block-4dc5625ee69ae03d50d7"><div class="sqs-block-content">
+
+
+
+  <svg data-image-mask-id="4dc5625ee69ae03d50d7" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="4dc5625ee69ae03d50d7" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.35 0.35, 0 0 1, 1 0.5 A0.35 0.35, 0 0 1 0 0.5"/>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="horizontal-oval"
+          style="overflow: hidden;clip-path: url(#4dc5625ee69ae03d50d7);-webkit-clip-path: url(#4dc5625ee69ae03d50d7);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/f7398a37-c775-454e-9d71-4210f7e14f69/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/f7398a37-c775-454e-9d71-4210f7e14f69/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/f7398a37-c775-454e-9d71-4210f7e14f69/image-asset.png" data-image-dimensions="2884x1924" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-61809df1df3970f40d14"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="57.811487593856" data-block-type="5" id="block-61809df1df3970f40d14"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/4f4a2587-a7b2-4760-8ef8-62532b596b6a/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/4f4a2587-a7b2-4760-8ef8-62532b596b6a/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/4f4a2587-a7b2-4760-8ef8-62532b596b6a/image-asset.png" data-image-dimensions="1020x609" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-765824b68b10782b0136"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-765824b68b10782b0136"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--lightAccent">iceland’s geothermic pools and black sand beaches create stunning compositions from the air. both are created by the island’s constant volcanic activity.</span></p>
+
+
+</div></div></div><div class="fe-block fe-block-d768026491514ee95136"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="57.811487593856" data-block-type="5" id="block-d768026491514ee95136"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/61b77470-dc53-4154-99d9-5b1a30e59a70/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/61b77470-dc53-4154-99d9-5b1a30e59a70/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/61b77470-dc53-4154-99d9-5b1a30e59a70/image-asset.png" data-image-dimensions="1020x611" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-f4f54f2b7fd210660578"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="57.80708106254049" data-block-type="5" id="block-f4f54f2b7fd210660578"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-left
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/3b215e58-e2d4-44cb-829f-2645ef9a2c2e/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/3b215e58-e2d4-44cb-829f-2645ef9a2c2e/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/3b215e58-e2d4-44cb-829f-2645ef9a2c2e/image-asset.png" data-image-dimensions="1020x600" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="6350ba99b5b64707d0356a94"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6350ba99b5b64707d0356a6b&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1663863316124,
+    &quot;updatedOn&quot;: 1665666754478,
+    &quot;starred&quot;: false,
+    &quot;passthrough&quot;: false,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1663863316124,
+    &quot;authorId&quot;: &quot;632e0183577b973074d8abbd&quot;,
+    &quot;systemDataId&quot;: &quot;c3fc3011-0dad-4b71-8fed-3aaf975d9271&quot;,
+    &quot;systemDataVariants&quot;: &quot;1980x1630,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+    &quot;filename&quot;: &quot;moss-bg.png&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;1f1e1e&quot;,
+      &quot;topRightAverage&quot;: &quot;111110&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;000000&quot;,
+      &quot;bottomRightAverage&quot;: &quot;000000&quot;,
+      &quot;centerAverage&quot;: &quot;101010&quot;,
+      &quot;suggestedBgColor&quot;: &quot;0e0e0e&quot;
+    },
+    &quot;urlId&quot;: &quot;poq6m35dwm1ibq8bidoh3e1pne4r8y-m4429&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;632e0183577b973074d8abbd&quot;,
+      &quot;displayName&quot;: &quot;cash cash&quot;,
+      &quot;firstName&quot;: &quot;cash&quot;,
+      &quot;lastName&quot;: &quot;cash&quot;,
+      &quot;avatarUrl&quot;: &quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://static1.squarespace.com/static/images/632e018417fc482556f05a23&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/c3fc3011-0dad-4b71-8fed-3aaf975d9271/moss-bg.png&quot;,
+    &quot;contentType&quot;: &quot;image/png&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1980x1630&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+     style="min-height: 1vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/c3fc3011-0dad-4b71-8fed-3aaf975d9271/moss-bg.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/c3fc3011-0dad-4b71-8fed-3aaf975d9271/moss-bg.png" data-image-dimensions="1980x1630" data-image-focal-point="0.5,0.5" alt="moss-bg.png" 
+    data-load="false"
+    
+  />
+
+
+      
+      <div class="section-background-overlay" style="opacity: 0.15;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+           padding-bottom: calc(1vmax / 5);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-6350ba99b5b64707d0356a93 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(15,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6350ba99b5b64707d0356a93 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6350ba99b5b64707d0356a93 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(35,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-d2af951bf06925204bab {
+    grid-area: 5/2/12/10;
+    z-index: 1;
+  }
+
+  .fe-block-d2af951bf06925204bab .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-d2af951bf06925204bab .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d2af951bf06925204bab {
+      grid-area: 11/4/30/24;
+      z-index: 2;
+    }
+
+    .fe-block-d2af951bf06925204bab .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-d2af951bf06925204bab .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-42a17cddea840ea17ea2 {
+    grid-area: 3/3/7/9;
+    z-index: 2;
+  }
+
+  .fe-block-42a17cddea840ea17ea2 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-42a17cddea840ea17ea2 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-42a17cddea840ea17ea2 {
+      grid-area: 7/9/14/19;
+      z-index: 3;
+    }
+
+    .fe-block-42a17cddea840ea17ea2 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-42a17cddea840ea17ea2 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-13fe01a68f4fc02d0a32 {
+    grid-area: 9/3/15/9;
+    z-index: 3;
+  }
+
+  .fe-block-13fe01a68f4fc02d0a32 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-13fe01a68f4fc02d0a32 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-13fe01a68f4fc02d0a32 {
+      grid-area: 26/11/33/17;
+      z-index: 4;
+    }
+
+    .fe-block-13fe01a68f4fc02d0a32 .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-13fe01a68f4fc02d0a32 .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+</style><div class="fluid-engine fe-6350ba99b5b64707d0356a93"><div class="fe-block fe-block-d2af951bf06925204bab"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="73.83309106850326" data-block-type="5" id="block-d2af951bf06925204bab"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/0a122935-5e8d-4ef6-9a30-abc012a1ab7a/image-asset.jpeg" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.521376085504342 * 100%) calc(0.1840115007187949 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/0a122935-5e8d-4ef6-9a30-abc012a1ab7a/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/0a122935-5e8d-4ef6-9a30-abc012a1ab7a/image-asset.jpeg" data-image-dimensions="6144x4097" data-image-focal-point="0.521376085504342,0.1840115007187949" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.521376085504342 * 100%) calc(0.1840115007187949 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-42a17cddea840ea17ea2"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="46.0706975460546" data-block-type="5" id="block-42a17cddea840ea17ea2"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/e89ff43f-5206-4316-a5f7-c42cb042d4dc/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/e89ff43f-5206-4316-a5f7-c42cb042d4dc/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/e89ff43f-5206-4316-a5f7-c42cb042d4dc/image-asset.png" data-image-dimensions="1828x826" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-13fe01a68f4fc02d0a32"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-13fe01a68f4fc02d0a32"><div class="sqs-block-content">
+
+<h1 style="text-align:center;white-space:pre-wrap;">natural beauty in its rawest form</h1>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6350ba99b5b64707d0356a97"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-6350ba99b5b64707d0356a96 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(11,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6350ba99b5b64707d0356a96 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6350ba99b5b64707d0356a96 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(21,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-bb9c4934ce69e8fd0479 {
+    grid-area: 5/1/12/11;
+    z-index: 1;
+  }
+
+  .fe-block-bb9c4934ce69e8fd0479 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-bb9c4934ce69e8fd0479 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-bb9c4934ce69e8fd0479 {
+      grid-area: 8/1/22/27;
+      z-index: 1;
+    }
+
+    .fe-block-bb9c4934ce69e8fd0479 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-bb9c4934ce69e8fd0479 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-fcfa19c33466fff581ba {
+    grid-area: 1/2/8/10;
+    z-index: 2;
+  }
+
+  .fe-block-fcfa19c33466fff581ba .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-fcfa19c33466fff581ba .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-fcfa19c33466fff581ba {
+      grid-area: 1/4/15/17;
+      z-index: 2;
+    }
+
+    .fe-block-fcfa19c33466fff581ba .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-fcfa19c33466fff581ba .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-4582037320d8cf93a4a8 {
+    grid-area: 9/2/12/10;
+    z-index: 3;
+  }
+
+  .fe-block-4582037320d8cf93a4a8 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-4582037320d8cf93a4a8 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-4582037320d8cf93a4a8 {
+      grid-area: 3/18/6/23;
+      z-index: 3;
+    }
+
+    .fe-block-4582037320d8cf93a4a8 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-4582037320d8cf93a4a8 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6350ba99b5b64707d0356a96"><div class="fe-block fe-block-bb9c4934ce69e8fd0479"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="35.61111111111111" data-block-type="5" id="block-bb9c4934ce69e8fd0479"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/01f7b050-486f-4dca-855d-864fcfb4e74b/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/01f7b050-486f-4dca-855d-864fcfb4e74b/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/01f7b050-486f-4dca-855d-864fcfb4e74b/image-asset.png" data-image-dimensions="3830x1764" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-fcfa19c33466fff581ba"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="67" data-block-type="5" id="block-fcfa19c33466fff581ba"><div class="sqs-block-content">
+
+
+
+  <svg data-image-mask-id="fcfa19c33466fff581ba" width="0" height="0" style="position: absolute;">
+    <defs>
+      <clipPath id="fcfa19c33466fff581ba" clipPathUnits="objectBoundingBox">
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+          <path d="M0,0.5 A0.35 0.35, 0 0 1, 1 0.5 A0.35 0.35, 0 0 1 0 0.5"/>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+      </clipPath>
+    </defs>
+  </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          data-shape-mask="horizontal-oval"
+          style="overflow: hidden;clip-path: url(#fcfa19c33466fff581ba);-webkit-clip-path: url(#fcfa19c33466fff581ba);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/5b43a359-eae0-40b5-bfa0-6445c3f4194d/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/5b43a359-eae0-40b5-bfa0-6445c3f4194d/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/5b43a359-eae0-40b5-bfa0-6445c3f4194d/image-asset.png" data-image-dimensions="1860x2788" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-4582037320d8cf93a4a8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4582037320d8cf93a4a8"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--lightAccent">iceland’s surface is carved by water, originating from either its massive glaciers or abundant rainfall.</span></p>
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6350ba99b5b64707d0356a9a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-6350ba99b5b64707d0356a99 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 0.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(25,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 0.0px;
+  column-gap: 0.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6350ba99b5b64707d0356a99 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6350ba99b5b64707d0356a99 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 0.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(32,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-1d924d8d4b2858874976 {
+    grid-area: 4/2/20/10;
+    z-index: 3;
+  }
+
+  .fe-block-1d924d8d4b2858874976 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-1d924d8d4b2858874976 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-1d924d8d4b2858874976 {
+      grid-area: 5/14/28/22;
+      z-index: 4;
+    }
+
+    .fe-block-1d924d8d4b2858874976 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-1d924d8d4b2858874976 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-1666547b00f9e693fd97 {
+    grid-area: 13/1/25/11;
+    z-index: 1;
+  }
+
+  .fe-block-1666547b00f9e693fd97 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-1666547b00f9e693fd97 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-1666547b00f9e693fd97 {
+      grid-area: 15/1/33/27;
+      z-index: 1;
+    }
+
+    .fe-block-1666547b00f9e693fd97 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-1666547b00f9e693fd97 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-9b4d77880d3239ed4bc7 {
+    grid-area: 22/2/25/10;
+    z-index: 2;
+  }
+
+  .fe-block-9b4d77880d3239ed4bc7 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-9b4d77880d3239ed4bc7 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-9b4d77880d3239ed4bc7 {
+      grid-area: 7/6/10/12;
+      z-index: 2;
+    }
+
+    .fe-block-9b4d77880d3239ed4bc7 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-9b4d77880d3239ed4bc7 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-87e1a98e868713526cbd {
+    grid-area: 1/7/5/10;
+    z-index: 4;
+  }
+
+  .fe-block-87e1a98e868713526cbd .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-87e1a98e868713526cbd .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-87e1a98e868713526cbd {
+      grid-area: 1/19/7/24;
+      z-index: 3;
+    }
+
+    .fe-block-87e1a98e868713526cbd .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-87e1a98e868713526cbd .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-3fd8fe3d264ce7329769 {
+    grid-area: 3/6/7/9;
+    z-index: 5;
+  }
+
+  .fe-block-3fd8fe3d264ce7329769 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-3fd8fe3d264ce7329769 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-3fd8fe3d264ce7329769 {
+      grid-area: 3/18/9/23;
+      z-index: 5;
+    }
+
+    .fe-block-3fd8fe3d264ce7329769 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-3fd8fe3d264ce7329769 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-6350ba99b5b64707d0356a99"><div class="fe-block fe-block-1d924d8d4b2858874976"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-1d924d8d4b2858874976"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/23fe1fbe-8d1f-4a8a-a5fb-403ad1d4d01a/image-asset.png" alt="" loading="lazy" style="
+                object-fit: contain;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/23fe1fbe-8d1f-4a8a-a5fb-403ad1d4d01a/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/23fe1fbe-8d1f-4a8a-a5fb-403ad1d4d01a/image-asset.png" data-image-dimensions="1382x2075" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: contain;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-1666547b00f9e693fd97"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="29.666666666666668" data-block-type="5" id="block-1666547b00f9e693fd97"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/59383723-195e-40d5-a21c-9affd04a488e/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/59383723-195e-40d5-a21c-9affd04a488e/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/59383723-195e-40d5-a21c-9affd04a488e/image-asset.png" data-image-dimensions="3840x1676" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-9b4d77880d3239ed4bc7"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-9b4d77880d3239ed4bc7"><div class="sqs-block-content">
+
+<p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--lightAccent">the sun’s angle at this latitude produces deep and contrasty colors, drawing out the blacks in the volcanic soil and saturating the greens from the grasses and moss.</span></p>
+
+
+</div></div></div><div class="fe-block fe-block-87e1a98e868713526cbd"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-87e1a98e868713526cbd"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/3b27972f-77cf-427a-a402-0ea1c91a1baf/image-asset.png" alt="" loading="lazy" style="
+                object-fit: contain;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/3b27972f-77cf-427a-a402-0ea1c91a1baf/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/3b27972f-77cf-427a-a402-0ea1c91a1baf/image-asset.png" data-image-dimensions="1078x650" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: contain;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-3fd8fe3d264ce7329769"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-3fd8fe3d264ce7329769"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/33f214a3-6856-4018-ae16-464cb4e854cd/image-asset.png" alt="" loading="lazy" style="
+                object-fit: contain;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/33f214a3-6856-4018-ae16-464cb4e854cd/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/33f214a3-6856-4018-ae16-464cb4e854cd/image-asset.png" data-image-dimensions="1010x672" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="false"
+              style="object-fit: contain;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="6350ba99b5b64707d0356a9d"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>.fe-6350ba99b5b64707d0356a9c {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(19,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6350ba99b5b64707d0356a9c {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6350ba99b5b64707d0356a9c {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(15,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-dbb559c5ff9868be74f0 {
+    grid-area: 1/3/10/9;
+    z-index: 1;
+  }
+
+  .fe-block-dbb559c5ff9868be74f0 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-dbb559c5ff9868be74f0 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-dbb559c5ff9868be74f0 {
+      grid-area: 5/16/9/23;
+      z-index: 0;
+    }
+
+    .fe-block-dbb559c5ff9868be74f0 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-dbb559c5ff9868be74f0 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-42fdf3d3cc8c971f8650 {
+    grid-area: 6/2/13/8;
+    z-index: 4;
+  }
+
+  .fe-block-42fdf3d3cc8c971f8650 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-42fdf3d3cc8c971f8650 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-42fdf3d3cc8c971f8650 {
+      grid-area: 2/4/10/12;
+      z-index: 3;
+    }
+
+    .fe-block-42fdf3d3cc8c971f8650 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-42fdf3d3cc8c971f8650 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-e8f46773c8e9c95cef82 {
+    grid-area: 9/5/16/10;
+    z-index: 3;
+  }
+
+  .fe-block-e8f46773c8e9c95cef82 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-e8f46773c8e9c95cef82 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-e8f46773c8e9c95cef82 {
+      grid-area: 6/10/14/14;
+      z-index: 4;
+    }
+
+    .fe-block-e8f46773c8e9c95cef82 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-e8f46773c8e9c95cef82 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-1cb0eb7dcc14ef62383c {
+    grid-area: 17/3/19/9;
+    z-index: 2;
+  }
+
+  .fe-block-1cb0eb7dcc14ef62383c .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-1cb0eb7dcc14ef62383c .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-1cb0eb7dcc14ef62383c {
+      grid-area: 9/18/11/21;
+      z-index: 1;
+    }
+
+    .fe-block-1cb0eb7dcc14ef62383c .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-1cb0eb7dcc14ef62383c .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-6350ba99b5b64707d0356a9c"><div class="fe-block fe-block-dbb559c5ff9868be74f0"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-dbb559c5ff9868be74f0"><div class="sqs-block-content">
+
+<h2 style="text-align:center;white-space:pre-wrap;">shop prints</h2><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-large">a2 sized digital c prints, suitable for framing. each edition is limited to ten prints.</p>
+
+
+</div></div></div><div class="fe-block fe-block-42fdf3d3cc8c971f8650"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="66.28128810155633" data-block-type="5" id="block-42fdf3d3cc8c971f8650"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/96a1ebf2-1d37-4006-a954-0d336d54f2fd/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/96a1ebf2-1d37-4006-a954-0d336d54f2fd/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/96a1ebf2-1d37-4006-a954-0d336d54f2fd/image-asset.png" data-image-dimensions="1720x993" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-e8f46773c8e9c95cef82"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-aspect-ratio="89.98694385859196" data-block-type="5" id="block-e8f46773c8e9c95cef82"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fill">
+                
+            <noscript>
+              <img src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/7a222b2a-2794-4acc-a55a-38626bc7477f/image-asset.png" alt="" loading="lazy" style="
+                object-fit: cover;
+                object-position: calc(0.5 * 100%) calc(0.5 * 100%);
+              "/>
+            </noscript>
+            <img
+              src="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/7a222b2a-2794-4acc-a55a-38626bc7477f/image-asset.png" data-image="https://images.squarespace-cdn.com/content/v1/6329f526dfa8a56dbab40128/7a222b2a-2794-4acc-a55a-38626bc7477f/image-asset.png" data-image-dimensions="1860x2788" data-image-focal-point="0.5,0.5" alt="" 
+              loading="lazy"
+              data-stretch="true"
+              style="object-fit: cover;object-position: calc(0.5 * 100%) calc(0.5 * 100%);"
+            />
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      .sqs-block-image .design-layout-fluid,
+      .sqs-block-image .fluid-image-animation-wrapper {
+        width: 100%;
+        height: 100%;
+      }
+      .sqs-block-image .design-layout-fluid img {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .fluid-image-container .content-fill {
+        display: block;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .fluid-image-container .content-fill img {
+        
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        width: 100% !important;
+        height: 100% !important;
+      }
+      .design-layout-fluid button.lightbox {
+        -webkit-appearance: value;
+        -moz-appearance: value;
+        appearance: value;
+      }
+      .design-layout-fluid .sqs-image {
+        display: flex;
+      }
+      .design-layout-fluid.image-position-left .sqs-image {
+        justify-content: flex-start;
+      }
+      .design-layout-fluid.image-position-center .sqs-image {
+        justify-content: center;
+      }
+      .design-layout-fluid.image-position-right .sqs-image {
+        justify-content: flex-end;
+      }
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-1cb0eb7dcc14ef62383c"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-1cb0eb7dcc14ef62383c"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/prints"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    shop
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
